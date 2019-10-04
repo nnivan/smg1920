@@ -1,12 +1,12 @@
 -----Сортиране, бързо STL сортиране.-------------------------------------------
 - Школа
 # Сортираме по брой цифри и след това по големина на числото
-$ http://www.math.bas.bg/infos/files/2015-01-04-D3.pdf
-$ http://www.math.bas.bg/infos/files/2009-03-08-tasks-D3.pdf
+$ noi1_2009_d3 - http://www.math.bas.bg/infos/files/2015-01-04-D3.pdf
+$ noi2_2009_d3 - http://www.math.bas.bg/infos/files/2009-03-08-tasks-D3.pdf
 - Домашно
-$ http://www.math.bas.bg/infos/files/2015-11-29-D1.pdf
-$ http://www.math.bas.bg/infos/files/2015-03-01-D3.pdf
-$ http://www.math.bas.bg/infos/files/2013-03-02-D2.pdf
-$ http://www.math.bas.bg/infos/files/2015-03-31-D1.pdf
+$ esen_2015_d1 - http://www.math.bas.bg/infos/files/2015-11-29-D1.pdf
+$ zima_2015_d3 - http://www.math.bas.bg/infos/files/2015-03-01-D3.pdf
+$ zima_2014_d2 - http://www.math.bas.bg/infos/files/2013-03-02-D2.pdf
+$ noi2_2015_d1 - http://www.math.bas.bg/infos/files/2015-03-31-D1.pdf
 $ https://arena.olimpiici.com/#/tag/14/view
 -------------------------------------------------------------------------------

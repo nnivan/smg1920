@@ -32,14 +32,14 @@
 	4 22 1111
 
 Задача 2.
-	2009_noi1_d2 - square
+	noi1_2009_d2 - square
 	http://www.math.bas.bg/infos/files/2009-01-25-D2.pdf
 Задача 3.
-	2008_esen_d1 - digit
+	esen_2008_d1 - digit
 	http://www.math.bas.bg/infos/files/2008-12-02-D1.pdf
 Задача 4.
-	2017_prlt_d2 - number
+	prlt_2017_d2 - number
 	http://www.math.bas.bg/infos/files/2017-06-13-D2.pdf
 Задача 5.
-	2014_noi2_d2 - numerology
+	noi2_2014_d2 - numerology
 	http://www.math.bas.bg/infos/files/2014-03-31-D2.pdf

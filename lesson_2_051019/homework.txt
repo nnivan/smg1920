@@ -1,8 +1,8 @@
-esen_2015_d1 - shop		| http://www.math.bas.bg/infos/files/2015-11-29-D1.pdf
-zima_2015_d3 - pots		| http://www.math.bas.bg/infos/files/2015-03-01-D3.pdf
-zima_2014_d2 - monitors	  | http://www.math.bas.bg/infos/files/2013-03-02-D2.pdf
-noi2_2015_d1 - rect		| http://www.math.bas.bg/infos/files/2015-03-31-D1.pdf
-Задачи за сортиране		| https://arena.olimpiici.com/#/tag/14/view
+esen_2015_d1 - shop     | http://www.math.bas.bg/infos/files/2015-11-29-D1.pdf
+zima_2015_d3 - pots     | http://www.math.bas.bg/infos/files/2015-03-01-D3.pdf
+zima_2014_d2 - monitors | http://www.math.bas.bg/infos/files/2013-03-02-D2.pdf
+noi2_2015_d1 - rect     | http://www.math.bas.bg/infos/files/2015-03-31-D1.pdf
+Задачи за сортиране     | https://arena.olimpiici.com/#/tag/14/view
 
 За домашно имате да решите четирите задачи от линковете.
 Последния линк е към арената, в която са извадени задачи за сортиране.

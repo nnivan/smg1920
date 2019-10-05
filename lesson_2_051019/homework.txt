@@ -1,3 +1,19 @@
+Задача 0.
+Решете си задачите от школата.
+
+Задача 1.
+Дадено ви е число N и след това N човека: Име, Години, Височина.
+Сортирайте ги по Години -> Височина -> Име.
+
+Вход:		Изход:
+5		Gosho
+Gosho 10 147	Joro
+Bobi 11 155	Asq
+Joro 10 151	Bobi
+Toni 12 160	Toni
+Asq 11 155
+
+Задача 2.
 esen_2015_d1 - shop     | http://www.math.bas.bg/infos/files/2015-11-29-D1.pdf
 zima_2015_d3 - pots     | http://www.math.bas.bg/infos/files/2015-03-01-D3.pdf
 zima_2014_d2 - monitors | http://www.math.bas.bg/infos/files/2013-03-02-D2.pdf

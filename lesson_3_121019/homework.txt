@@ -1,5 +1,10 @@
+
 (esen_2009_d2) http://www.math.bas.bg/infos/files/2009-11-29-task_D2.pdf
 (esen_2014_d2) http://www.math.bas.bg/infos/files/2014-11-23-D2.pdf
+
+Ако не сте решили предишното домашно, искам да решите тези две задачи:
+(zima_2014_d2) http://www.math.bas.bg/infos/files/2013-03-02-D2.pdf
+(noi2_2015_d1) http://www.math.bas.bg/infos/files/2015-03-31-D1.pdf
 
 Припомнете си алгоритъма на Евклид за намиране на НОД! Ето малко задачки:
 (noi1_2013_d2) http://www.math.bas.bg/infos/files/2013-01-06-D2.pdf

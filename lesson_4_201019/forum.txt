@@ -1,0 +1,5 @@
+Задачи от Школа:
+https://raw.githubusercontent.com/nnivan/smg1920/master/lesson_4_201019/classwork.txt
+
+Задачи за Домашно:
+https://raw.githubusercontent.com/nnivan/smg1920/master/lesson_4_201019/homework.txt

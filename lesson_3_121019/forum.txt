@@ -1,0 +1,8 @@
+Задачи от клас:
+https://raw.githubusercontent.com/nnivan/smg1920/master/lesson_3_121019/classwork.txt
+
+Задачата, която решихме:
+https://raw.githubusercontent.com/nnivan/smg1920/master/lesson_3_121019/zad1.cpp
+
+Задачи за домашно:
+https://raw.githubusercontent.com/nnivan/smg1920/master/lesson_3_121019/homework.txt

@@ -11,9 +11,9 @@ $ (esti_2018_d1) https://arena.olimpiici.com/api/public/problems/1079/pdf
 ! Припомнете си решето на Ератостен
 - Домашно
 ! Искам всеки да ми прати мейл със решени задачи.
-(noi2_2012_d1) www.math.bas.bg/infos/files/2012-04-07-D1.pdf
-(noi2_2013_d1) www.math.bas.bg/infos/files/2013-04-01-D1.pdf
-(noi2_2014_d1) www.math.bas.bg/infos/files/2014-03-31-D1.pdf
-(noi2_2014_d2) www.math.bas.bg/infos/files/2014-03-31-D2.pdf
-(noi2_2017_d1) www.math.bas.bg/infos/files/2017-03-19-D1.pdf
+$ (noi2_2012_d1) www.math.bas.bg/infos/files/2012-04-07-D1.pdf
+$ (noi2_2013_d1) www.math.bas.bg/infos/files/2013-04-01-D1.pdf
+$ (noi2_2014_d1) www.math.bas.bg/infos/files/2014-03-31-D1.pdf
+$ (noi2_2014_d2) www.math.bas.bg/infos/files/2014-03-31-D2.pdf
+$ (noi2_2017_d1) www.math.bas.bg/infos/files/2017-03-19-D1.pdf
 -------------------------------------------------------------------------------

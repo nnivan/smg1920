@@ -1,0 +1,13 @@
+Шифри
+1. 	а) Въвеждат ни дума -> криптирайтея я. 
+	б) Въвеждат ни дума -> декриптирайтея я. 
+abc -> def
+bcd -> efg
+xyz -> abc
+baba -> eded
+2. ROT(n) - 1-ва но не с 3 шифтвания, а с n. (0 <= n < 26)
+3. Използваме ключ с дължина 26.
+abcdefghijklmnopqrstuvwxyz
+nopqrstuvwabcxyzdefghijklm
+cabdefghijklmnopqrstuvwyzx
+

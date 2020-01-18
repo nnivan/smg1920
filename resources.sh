@@ -1,0 +1,1 @@
+cat lesson_*/resources.txt 
